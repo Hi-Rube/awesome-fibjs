@@ -3,7 +3,7 @@
 
 两个版本大部分是一样的，只是在数据处理方面有差异。
 
-fibjs版本：https://github.com/illuspas/NodeMediaServer     
+fibjs版本：https://github.com/illuspas/NodeMediaServer
 fibjs没有回调一说，同步的流程写起来相当舒服。
 
 nodejs版：https://github.com/illuspas/Node-Media-Server     
